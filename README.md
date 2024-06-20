@@ -43,7 +43,7 @@ Welcome to Cek Khodam! This program allows you to discover your mystical spirit 
 
 ### Credits:
 
-Developed with love by [Your Name or Alias]
+Developed with love by [Muhamad Fadhlan]
 
 ---
 
